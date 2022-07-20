@@ -17,3 +17,7 @@ optional arguments:
 
 Example: ./nessus_parser.py -i report.nessus -o output.docx
 ```
+### Nessus reports downloader
+Change 'IP_of_NESSUS', 'YOUR_access_KEY' and 'YOUR_secret_KEY' in the nessus_reports_downloader.py.
+
+Then just run it. All scan results will be downloaded from Nessus in .nessus format.
